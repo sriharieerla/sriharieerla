@@ -5,7 +5,7 @@
 - 🌱 I’m learning **Java, DSA, AWS, React, and AI & ML**
 - 👯 I’m looking to collaborate on **Open Source AI Projects**
 - 📫 How to reach me: `eerlasriharimanikanta@gmail.com`
-- 💼 LinkedIn: [linkedin.com/in/sriharieerla](https://linkedin.com/in/srihari-manikanta-eerla)
+- 💼 LinkedIn: [linkedin.com/in//srihari-manikanta-eerla-520b49256/](https://www.linkedin.com/in/srihari-manikanta-eerla-520b49256/)
 
 ### 🛠️ Tech Stack
 ![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python) ![Java](https://img.shields.io/badge/-Java-333?style=flat&logo=java) ![Flask](https://img.shields.io/badge/-Flask-333?style=flat&logo=flask) ![MySQL](https://img.shields.io/badge/-MySQL-333?style=flat&logo=mysql)  
