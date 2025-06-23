@@ -2,7 +2,7 @@
 <h3 align="center">🚀 Aspiring Software Engineer | CSE (AI/ML) Graduate | Passionate about Scalable AI & AGI</h3>
 
 - 🔭 I’m currently working on **Accident Prediction System, Online Reservation System & JARVIS AI**
-- 🌱 I’m learning **Java, DSA, AWS, React, and AI & ML**
+- 🌱 Mastering **Java, DSA, AWS, React, and AI & ML**
 - 👯 I’m looking to collaborate on **Open Source AI Projects**
 - 📫 How to reach me: `eerlasriharimanikanta@gmail.com`
 - 💼 LinkedIn: [linkedin.com/in//srihari-manikanta-eerla-520b49256/](https://www.linkedin.com/in/srihari-manikanta-eerla-520b49256/)
