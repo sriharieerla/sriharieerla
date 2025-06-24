@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Srihari Eerla</h1>
-<h3 align="center">🚀 Aspiring Software Engineer | CSE (AI/ML) Graduate | Passionate about Scalable AI & AGI</h3>
+<h1 align="center">Hi 👋, I'm Srihari Manikanta Eerla</h1>
+<h3 align="center">🚀 Aspiring Software Development Engineer | CSE (AI/ML) Graduate | Passionate about Scalable AI & AGI</h3>
 
 - 🔭 I’m currently working on **Accident Prediction System, Online Reservation System & JARVIS AI**
 - 🌱 Mastering **Java, DSA, AWS, React, and AI & ML**
