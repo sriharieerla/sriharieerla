@@ -1,40 +1,42 @@
 <h1 align="center">Hi 👋, I'm Srihari Manikanta Eerla</h1>
-<h3 align="center">💻 Software Development Engineer | AI/ML Enthusiast | Building Scalable Systems & Intelligent Applications</h3>
+<h3 align="center">Software Engineer | Java Backend Developer | AI/ML Enthusiast</h3>
 
 ---
 
-## 🚀 About Me
+## 👨‍💻 About Me
+
 - 🎓 B.Tech in Computer Science (AI & ML)
-- 💡 Focused on building scalable backend systems and AI-driven applications
-- 🌱 Currently improving:
-  - Java & Data Structures
-  - System Design
-  - Cloud (AWS)
-  - Generative AI & Agentic Systems
----
-
-
-## 🛠️ Tech Stack
-**Languages:** Java, Python, SQL  
-**Backend:** Spring Boot, Flask, REST APIs  
-**Frontend:** React, JavaScript, HTML, CSS  
-**AI/ML:** Machine Learning, Deep Learning, Generative AI (RAG, LLMs)  
-**Tools:** Git, Docker, Linux, GCP  
+- 💻 Passionate about Backend Development and Software Engineering
+- 🚀 Building scalable applications with Java, Spring Boot, and AI
+- 📚 Currently learning Data Structures & Algorithms, System Design, and Cloud
 
 ---
 
-## 📊 Achievements  
-- Built AI system in **36-hour GDG Hackathon**
-- Deployed cloud-native apps on **Google Cloud Run**
+## 🛠 Tech Stack
+
+**Languages:** Java, Python, SQL
+
+**Backend:** Spring Boot, REST APIs, Hibernate, Flask
+
+**Frontend:** React, JavaScript, HTML, CSS
+
+**AI/ML:** Machine Learning, Generative AI, RAG, LLMs
+
+**Tools:** Git, Docker, Linux, Google Cloud
 
 ---
 
-## 📫 Contact
-- 📧 [Email Me](mailto:eerlasriharimanikanta@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/srihari-manikanta-eerla-520b49256/)
-- 💻 [GitHub](https://github.com/sriharieerla)
-  
+## 🌱 Currently Working On
+
+- Data Structures & Algorithms
+- Spring Boot Projects
+- System Design
+- Cloud & AI Applications
+
 ---
-## 🔥 Current Focus
-```text
-DSA + System Design + Backend Engineering + AI Systems
+
+## 📫 Connect With Me
+
+- 💼 LinkedIn: www.linkedin.com/in/srihari-manikanta-eerla-520b49256
+- 💻 GitHub: github.com/sriharieerla
+- 📧 Email: eerlasriharimanikanta@gmail.com
