@@ -1,14 +1,15 @@
 <h1 align="center">Hi 👋, I'm Srihari Manikanta Eerla</h1>
-<h3 align="center">Software Engineer | Java Backend Developer | AI/ML Enthusiast</h3>
+<h3 align="center">💻 Software Engineer | 🤖 AI/ML & Generative AI Enthusiast | ☁️ Building Scalable Applications</h3>
 
 ---
 
-## 👨‍💻 About Me
+## 🚀 About Me
 
 - 🎓 B.Tech in Computer Science (AI & ML)
-- 💻 Passionate about Backend Development and Software Engineering
-- 🚀 Building scalable applications with Java, Spring Boot, and AI
-- 📚 Currently learning Data Structures & Algorithms, System Design, and Cloud
+- 💻 Passionate about Software Engineering, Backend Development, and AI
+- 🤖 Building intelligent applications using LLMs, RAG, and Agentic AI
+- ☁️ Interested in Cloud-Native and Scalable System Design
+- 🌱 Continuously learning and solving real-world engineering problems
 
 ---
 
@@ -20,18 +21,19 @@
 
 **Frontend:** React, JavaScript, HTML, CSS
 
-**AI/ML:** Machine Learning, Generative AI, RAG, LLMs
+**AI:** Machine Learning, Deep Learning, Generative AI, LLMs, RAG, Agentic AI
 
-**Tools:** Git, Docker, Linux, Google Cloud
+**Cloud & Tools:** Docker, Git, Linux, Google Cloud
 
 ---
 
-## 🌱 Currently Working On
+## 🔥 Current Focus
 
-- Data Structures & Algorithms
-- Spring Boot Projects
-- System Design
-- Cloud & AI Applications
+- 📚 Data Structures & Algorithms
+- ☕ Java & Spring Boot
+- 🏗️ System Design
+- 🤖 Generative AI & Agentic Systems
+- ☁️ Cloud Computing
 
 ---
 
