@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Srihari Manikanta Eerla</h1>
-<h3 align="center">💻 Software Engineer | 🤖 AI/ML & Generative AI Enthusiast | ☁️ Building Scalable Applications</h3>
+<h3 align="center">Aspiring Software Engineer | Java Backend Developer | AI/ML & Generative AI Enthusiast</h3>
 
 ---
 
